@@ -1,5 +1,6 @@
 # Assignment 3 for ISP
 
+##### Digital signature 
 ---  
 
 ## Preparation
@@ -21,3 +22,11 @@ cd liboqs-python
 pip install .
 ```
 #### Extract or copy ```oqs_real_estates``` to ```liboqs-python/```.
+
+## Run the code  
+```shell
+cd oqs_real_estates
+python3 sign_verify.py 
+```
+ The result should be like this 
+ ![image](img.png)
