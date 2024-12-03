@@ -25,7 +25,7 @@ pip install .
 
 ## Run the code  
 ```shell
-cd oqs_real_estates
+cd oqs_real_estates/demo
 python3 sign_verify.py 
 ```
  The result should be like this 
